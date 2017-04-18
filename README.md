@@ -1,15 +1,12 @@
 # Intro To React
 
-> Class Video here
+[![adfs](./images/Video.png)](https://vimeo.com/213710634)
 
 Today we will walk through the creation of our first React web app!
 
 At the end, we will have a simple production-ready weather app:
 
 ![Snapshot of the final weather app](./images/Final.png)
-
-# Why React
-Coming Soon
 
 # Create your first app
 
