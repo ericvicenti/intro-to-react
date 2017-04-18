@@ -1,6 +1,6 @@
 # Intro To React
 
-[![adfs](./images/Video.png)](https://vimeo.com/213710634)
+[![Class Video Walkthrough](./images/Video.png)](https://vimeo.com/213710634)
 
 Today we will walk through the creation of our first React web app!
 
