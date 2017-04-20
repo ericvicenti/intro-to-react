@@ -1,4 +1,4 @@
-# Intro To React
+# Intro To React Workshop
 
 This hour-long workshop was developed for the Open Source Dev Garage as a part of Facebook's 2017 developer conferene, F8.
 
