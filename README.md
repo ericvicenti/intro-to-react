@@ -138,7 +138,7 @@ There is also an `onClick` event handler, where we log the click to the console.
 
 ![Snapshot of the app with props](./images/Props.png)
 
-At this point, [your `App.js` file should look like this](./1-Components-and-Props-App.js).
+At this point, [your `App.js` file should look like this](./AppSnapshots/1-Components-and-Props-App.js).
 
 # State
 
@@ -193,7 +193,7 @@ class App extends Component {
 
 ![Snapshot of the weather app with changing state](./images/State.png)
 
-At this point, [your `App.js` file should look like this](./2-State-App.js).
+At this point, [your `App.js` file should look like this](./AppSnapshots/2-State-App.js).
 
 
 # Lifecycle Methods and Data Fetching
@@ -248,7 +248,7 @@ return (
 
 ![Snapshot of the weather app with weather data loading](./images/DataLoad.png)
 
-At this point, [your `App.js` file should look like this](./3-Lifecycle-and-Data-App.js).
+At this point, [your `App.js` file should look like this](./AppSnapshots/3-Lifecycle-and-Data-App.js).
 
 
 # Installing Components
