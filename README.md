@@ -1,10 +1,12 @@
 # Intro To React
 
+This hour-long workshop was developed for the Open Source Dev Garage as a part of Facebook's 2017 developer conferene, F8.
+
+For best results, watch the 48-minute workshop video and follow along in this guide.
+
 [![Class Video Walkthrough](./images/Video.png)](https://vimeo.com/213710634)
 
-Today we will walk through the creation of our first React web app!
-
-At the end, we will have a simple production-ready weather app:
+By the end of the workshop, we will have a simple production-ready weather app:
 
 ![Snapshot of the final weather app](./images/Final.png)
 
@@ -339,8 +341,6 @@ The final, working app should look like this:
 - [Flow](https://flow.org/) - Static type checker for JS
 
 # Deploying - (Extra credit!)
-
-It is very easy to deploy your new weather app.
 
 First, publish your app's code to a Github repo. Then, browse to your repo and review the ReadMe file that is generated for your app. There are deployment instructions for many popular services.
 
