@@ -257,10 +257,10 @@ Our app is still somewhat ugly. We can fix that by adding `className` props to o
 
 Or, we can install a library from `npm` that will help.
 
-[Bootstrap](http://getbootstrap.com/) is popular UI toolkit for HTML and CSS. Let's install it, alongside `react-bootstrap` which provides the React components for it:
+[Bootstrap](http://getbootstrap.com/) is popular UI toolkit for HTML and CSS. Let's install it, alongside `react-bootstrap` which provides the React components for it. Be sure to install version 3 of `bootstrap`, as this the version that `react-bootstrap` is expecting.
 
 ```sh
-npm install --save bootstrap react-bootstrap
+npm install --save bootstrap@^3.3.7 react-bootstrap
 ```
 
 In the top of the app file, import the css from the bootstrap module:
@@ -313,10 +313,10 @@ Now, replace the App component's render function to use the bootstrap components
 
 ![Snapshot of the app with Bootstrap components](./images/Bootstrap.png)
 
-Now our app is starting to look more polished, but it would be nice to have a custom theme. We can install `bootswatch` to do that.
+Now our app is starting to look more polished, but it would be nice to have a custom theme. We can install `bootswatch` to do that. Be sure to install version 3 in order to ensure compatibility with `bootstrap@^3.3.7`.
 
 ```sh
-npm install --save bootswatch
+npm install --save bootswatch@^3.3.7
 ```
 
 [Browse the bootswatch website](http://bootswatch.com/) to find a theme, and install it by replacing the import of bootstrap css with the following. In this case we are using the 'journal' theme.
